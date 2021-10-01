@@ -1,0 +1,18 @@
+{
+    "request": {
+        "api_url": "https://api.flock.co/v1/roster.listContacts",
+        "method": "GET",
+        "params": {
+            "token": "12345"
+        }
+    },
+    "response": [
+        {
+            "id": 1,
+            "firstName": "user1"
+        }
+    ],
+    "response-headers": {
+        "content-type": "application/json; charset=utf-8"
+    }
+}

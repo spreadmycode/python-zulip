@@ -1,0 +1,16 @@
+{
+  "request": {
+    "api_url": "http://api.giphy.com/v1/gifs/translate",
+    "params": {
+      "s": "Hello",
+      "api_key": "12345678"
+    }
+  },
+  "response": {
+    "message": "Invalid authentication credentials"
+  },
+  "response-headers": {
+    "status": 403,
+    "content-type": "application/json; charset=utf-8"
+  }
+}

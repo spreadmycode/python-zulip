@@ -1,0 +1,3 @@
+recursive-include integrations *
+include README.md
+include zulip/examples/*
