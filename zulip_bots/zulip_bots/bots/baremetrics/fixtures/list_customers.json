@@ -14,7 +14,7 @@
                 "created": 1492605754,
                 "email": "customer_1@baremetrics.com",
                 "name": "Customer 1",
-                "display_image": "https://logo.clearbit.com/baremetrics.com",
+                "display_image": "https://img.logo.dev/baremetrics.com?token=YOUR-LOGODEV-KEY-HERE",
                 "display_name": "Customer 1",
                 "notes": "Here are some notes",
                 "ltv": 50000,
